@@ -1,6 +1,6 @@
 # Project-RLE-PHP
 
-L'encodage RLE a pour but de compresser et décompresser les fichiers .bmp.
+L'encodage RLE a pour but de compresser et décompresser les fichiers .bmp.   
 Ce projet a été réaliser dans le cadre d'un projet scolaire ETNA et a été fait par groupe de 2.
 
 Le rle 1 peut être utiliser avec la commande suivante:   
